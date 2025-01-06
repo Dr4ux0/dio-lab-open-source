@@ -19,7 +19,7 @@ Estou aqui por amar programação e tudo que envolve código.
 </div>
 
 <div align="center">
-  <!-- Top Languages -->
+  <!-- Top Langs -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dr4ux0&theme=radical" alt="Top Langs">
 </div>
 
